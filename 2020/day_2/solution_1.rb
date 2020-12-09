@@ -1,5 +1,3 @@
-require 'pry'
-
 file_path = File.expand_path('/Users/jamisonordway/Desktop/advent_of_code/2020/day_2/passwords.txt', __FILE__)
 input = File.read(file_path)
 
